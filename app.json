@@ -1,0 +1,16 @@
+{
+  "name": "Mir",
+  "description": "Mir",
+  "logo": "https://i.imgur.com/ATSG4w3.png",
+  "keywords": [
+    "telegram",
+    "mir",
+    "plugin",
+    "modular",
+    "productivity"
+  ],
+  "repository": "https://github.com/shukryshuk/toru",
+  "website": "https://github.com/shukryshuk/toru/blob/master/README.md",
+  "success_url": "https://github.com/shukryshuk/toru",
+  "stack": "container"
+  }
